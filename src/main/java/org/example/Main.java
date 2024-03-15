@@ -1,11 +1,9 @@
 package org.example;
 
 
-import com.squareup.okhttp.*;
 import org.example.business.abstracts.BaseCustomerManager;
 import org.example.business.concretes.StarbucksManager;
-import org.example.business.utilities.CustomerCheckService;
-import org.example.business.utilities.Mernis;
+import org.example.utilities.Mernis;
 import org.example.entities.Customer;
 
 import java.io.IOException;

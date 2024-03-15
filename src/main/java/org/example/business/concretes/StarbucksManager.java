@@ -1,7 +1,7 @@
 package org.example.business.concretes;
 
 import org.example.business.abstracts.BaseCustomerManager;
-import org.example.business.utilities.CustomerCheckService;
+import org.example.utilities.CustomerCheckService;
 import org.example.entities.Customer;
 
 import java.io.IOException;

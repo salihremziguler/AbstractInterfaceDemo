@@ -1,4 +1,4 @@
-package org.example.business.utilities;
+package org.example.utilities;
 
 import com.squareup.okhttp.*;
 import org.example.entities.Customer;
@@ -16,7 +16,7 @@ public class Mernis implements CustomerCheckService {
                 "<soap12:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap12=\"http://www.w3.org/2003/05/soap-envelope\">\n" +
                 "  <soap12:Body>\n" +
                 "    <TCKimlikNoDogrula xmlns=\"http://tckimlik.nvi.gov.tr/WS\">\n" +
-                "      <TCKimlikNo>13344077942</TCKimlikNo>\n" +
+                "      <TCKimlikNo>13344077943</TCKimlikNo>\n" +
                 "      <Ad>Salih Remzi</Ad>\n" +
                 "      <Soyad>Güler</Soyad>\n" +
                 "      <DogumYili>2002</DogumYili>\n" +

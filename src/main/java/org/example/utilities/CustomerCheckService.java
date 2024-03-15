@@ -1,4 +1,4 @@
-package org.example.business.utilities;
+package org.example.utilities;
 
 import org.example.entities.Customer;
 
