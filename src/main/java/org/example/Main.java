@@ -16,7 +16,7 @@ public class Main {
         Customer customer1=new Customer();
         customer1.setFirstName("Salih Remzi");
         customer1.setLastName("Güler");
-        customer1.setNationalityId("13344077942");
+        customer1.setNationalityId("12345678911");
         customer1.setDateOfBirth(LocalDate.of(2002,8,25));
 
 
